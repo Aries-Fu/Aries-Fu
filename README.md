@@ -1,6 +1,6 @@
 <h1 align="center">Yuhong Fu</h1>
 <p align="center">
-  <b>🎓 PhD Candidate | System Modelling | System Interoperability</b>
+  <b>🎓 PhD Candidate | Model-Driven Engineering</b>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I am a PhD candidate in **system modelling**, with a particular interest in improving interoperability across **heterogeneous systems**.
+I am a PhD candidate in **Model-Driven Engineering**, with a particular interest in improving interoperability across **heterogeneous systems**.
 
 My current research explores combined modelling methods that integrate **multi-level modelling** and **multi-view modelling** to enhance both **vertical** and **horizontal interoperability**.  
 I am especially interested in projection-based multi-view modelling, where views are derived from a shared underlying model, enabling more systematic consistency management.
@@ -23,7 +23,6 @@ I am especially interested in projection-based multi-view modelling, where views
 - Multi-View Modelling (MVM)
 - Consistency Management
 - Digital Twins
-- Model-Driven Engineering (MDE)
 
 ## 📚 Current Focus
 
