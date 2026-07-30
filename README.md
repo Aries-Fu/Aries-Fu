@@ -55,7 +55,7 @@ Exploring modelling support for the development of interoperable and consistent 
 
 1. Zhang, W., Jiang, B., Fu, Y., Cheng, H., Hummel, M., Scotti, V., Hagel, N., Li, J., Grossmann, G., Stumptner, M., Hebig, R., Strüber, D., & Koziolek, A. (2027).
    **Large Language Models in Model-Driven Engineering: A Systematic Mapping Study.**
-   *Empirical Software Engineering, 32*, Article 3.
+   *Empirical Software Engineering, 32*, 3.
 
 2. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2026).
    **Handling Conflicts in Consistency Management of Multi-Level Models in Collaborative Digital Twins Modelling Environments.**
