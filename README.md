@@ -51,45 +51,44 @@ Investigating how consistency can be maintained when multiple views overlap on a
 
 Exploring modelling support for the development of interoperable and consistent digital twin systems.
 
-## 📝 Manuscripts Under Review
-
-1. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M.  
-   **Handling Conflicts in Consistency Management of Multi-Level Models in Collaborative Digital Twins Modelling Environments.**  
-   *Information and Software Technology.* Minor revised and resubmitted.
-
-2. Zhang, W., Jiang, B., Fu, Y., Cheng, H., Hummel, M., Scotti, V., Hagel, N., Li, J., Grossmann, G., Stumptner, M., Hebig, R., Strüber, D., & Koziolek, A.  
-   **Large Language Models in Model-Driven Engineering: A Systematic Mapping Study.**  
-   Submitted to *Empirical Software Engineering*.
-
-3. Zhang, W., Jiang, B., Fu, Y., Koziolek, A., Hebig, R., & Strüber, D.  
-   **Leveraging LLMs to Support Co-Evolution Between Definitions and Instances of Textual DSLs: A Systematic Evaluation.**  
-   *Software and Systems Modeling.* Minor revision.
-
-4. Fu, Y., Zhang, W., Jiang, B., Cheng, H., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M.  
-   **Two-Level vs. Multi-Level Modelling: An Empirical Study of Cascading Maintenance Burden.**  
-   Submitted to *ICSME*.
-
-5. Zhang, W., Jiang, B., Fu, Y., Cheng, H., Herb, M., & Koziolek, A.  
-   **Domain-Driven Design in Practice: A Mining Study of Maintenance and Evolution in Open-Source Repositories.**  
-   Submitted to *ICSME*.
-
 ## 📄 Publications
 
-1. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2025).  
-   **Conflict Management for Multi-Level Models in Collaborative Modelling Environments.**  
-   In *MODELS 2025 Companion: Proceedings of the CoPaMo Workshop*, pages 502–511. ACM.
+1. Zhang, W., Jiang, B., Fu, Y., Cheng, H., Hummel, M., Scotti, V., Hagel, N., Li, J., Grossmann, G., Stumptner, M., Hebig, R., Strüber, D., & Koziolek, A. (2027).
+   **Large Language Models in Model-Driven Engineering: A Systematic Mapping Study.**
+   *Empirical Software Engineering, 32*, Article 3.
 
-2. Fu, Y., Selway, M., Grossmann, G., Kaur, K., & Stumptner, M. (2024).  
-   **Modelling a Warehouse with SLICER: A Contribution to the MULTI Warehouse Challenge.**  
-   In *MODELS 2024 Companion: Proceedings of the MULTI Workshop*, pages 828–837. ACM.
+2. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2026).
+   **Handling Conflicts in Consistency Management of Multi-Level Models in Collaborative Digital Twins Modelling Environments.**
+   *Information and Software Technology*, 108237.
 
-3. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2023).  
-   **Towards the Integration of Multi-Level and Multi-View Modelling for Interoperability.**  
-   In *MODELS 2023 Companion: Proceedings of the MULTI Workshop*, pages 679–688. IEEE.
+3. Zhang, W., Jiang, B., Fu, Y., Koziolek, A., Hebig, R., & Strüber, D. (2026).
+   **Leveraging LLMs to Support Co-Evolution Between Definitions and Instances of Textual DSLs: A Systematic Evaluation.**
+   *Software and Systems Modeling*.
 
-4. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2022).  
-   **Multi-Level Risk Modelling for Interoperability of Risk Information.**  
-   In *Proceedings of IN4PL 2022*, pages 242–249. SCITEPRESS.
+4. Fu, Y., Zhang, W., Jiang, B., Cheng, H., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2026).
+   **Two-Level vs. Multi-Level Modelling: An Empirical Study of Cascading Maintenance Burden.**
+   *arXiv preprint arXiv:2606.24721*. Accepted Registered Report at *ICSME*.
+
+5. Zhang, W., Jiang, B., Fu, Y., Cheng, H., Herb, M., & Koziolek, A. (2026).
+   **Domain-Driven Design in Practice: A Mining Study of Maintenance and Evolution in Open-Source Repositories.**
+   *arXiv preprint arXiv:2606.23984*. Accepted Registered Report at *ICSME*.
+
+6. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2025).
+   **Conflict Management for Multi-Level Models in Collaborative Modelling Environments.**
+   In *2025 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)*, pages 502–511. IEEE.
+
+7. Fu, Y., Selway, M., Grossmann, G., Kaur, K., & Stumptner, M. (2024).
+   **Modelling a Warehouse with SLICER: A Contribution to the MULTI Warehouse Challenge.**
+   In *2024 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)*, pages 828–837. ACM.
+
+8. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2023).
+   **Towards the Integration of Multi-Level and Multi-View Modelling for Interoperability.**
+   In *2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)*, pages 679–688. IEEE.
+
+9. Fu, Y., Grossmann, G., Kaur, K., Selway, M., & Stumptner, M. (2022).
+   **Multi-Level Risk Modelling for Interoperability of Risk Information.**
+   In *Proceedings of the 3rd International Conference on Innovative Intelligent Industrial Production and Logistics, Volume 1: EI2N*, pages 242–249. SciTePress.
+
 
 ## 📫 Contact
 
